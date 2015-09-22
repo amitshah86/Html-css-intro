@@ -1,4 +1,46 @@
-li {
+header{
+  color: blue;
+  background: black;
+  text-align: center;
+  font-size: xx-large;
+  visibility: visible:
+}
+div {
   color: red;
+  font-size: x-large;
+  text-align: center;
+  background: black;
+  outline-style: double;
+}
+.pic{
+  text-align: center;
+  border-top width: medium;
+  max-block size: min-content;
+  height: auto;
+  outline-color: invert;
+}
+.sports{
+  font-size: x-large;
+  text-align: center;
+  
+}
+.link{
+  text-align: center;
+}
+ol {
+  color: blue;
+  background: black;
+  font-size: x-large;
+  text-align: center; 
+}
+footer{
+  color: Grey;
+  background: red;
+  font-size: x-large;
+  text-align: center;
+}
+h2{
+  color: blue;
+  background: black;
   text-align: center;
 }
